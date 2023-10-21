@@ -1,2 +1,3 @@
 # pythoncore
-core python programs 
+## core python programs
+### added swapcase program 
